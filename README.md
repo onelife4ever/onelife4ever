@@ -5,7 +5,6 @@
 * Frolov Evgeniy
 * Junior DevOps
 * Moscow, Russia
-* School_21 nik: alphonar
 
 ---
 
